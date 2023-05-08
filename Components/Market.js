@@ -1,10 +1,10 @@
 /* eslint-disable @next/next/no-img-element */
 import React from 'react'
-
+import {RiSingleQuotesR} from 'react-icons/ri'
 function Market() {
   return (
     <>
-    <h1 className='text-left font-bold'>Today's Picks</h1>
+    <h1 className='text-left font-bold'>Todays Picks</h1>
   
     <div className='flex '>
         

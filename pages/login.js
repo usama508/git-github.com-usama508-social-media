@@ -128,7 +128,7 @@ theme="dark"
                   Log in
                 </button>
                 <div className='mt-5'>
-                    <h1 className='font-thin'>Don't Have Account.<Link href='/signup' className='font-medium'>
+                    <h1 className='font-thin'>Do not Have Account.<Link href='/signup' className='font-medium'>
                        SignUp
                     </Link></h1>
                     
